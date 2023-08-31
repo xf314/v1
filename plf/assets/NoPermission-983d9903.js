@@ -1,0 +1,1 @@
+import{_ as e}from"./index-403bd5c7.js";await __OSL.all(["vue"]);const o={},{openBlock:_,createElementBlock:c,pushScopeId:r,popScopeId:d}=__OSL.get("vue"),s={class:"no-permission"};function t(n,p){return _(),c("div",s,"无权限访问")}const i=e(o,[["render",t],["__scopeId","data-v-a5ae1b3f"]]);export{i as default};
